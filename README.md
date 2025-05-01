@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tayyabafridi12345
+- 👋 Hi, I’m Tayyab Afridi
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me Tayyabpk4@gmail.com
 
 <!---
